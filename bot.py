@@ -9,6 +9,7 @@ try:
     makedirs("files")
 except:
     pass
+print("BOT STARTED")
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
 

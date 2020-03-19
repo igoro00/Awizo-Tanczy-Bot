@@ -1,0 +1,6 @@
+logged_messages.log
+venv/
+.vscode/
+__pycache__/
+files/
+key.py
